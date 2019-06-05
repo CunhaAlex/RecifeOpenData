@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recife Open Data</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_no_connection">Sem Conexão</string>
+    <string name="error_load_escola">Falha ao obter dados</string>
+    <string name="message_progress">Baixando informações</string>
+</resources>
